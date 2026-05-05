@@ -89,6 +89,10 @@ h1 {
   grid-template-columns: 1.1fr 1.4fr auto auto;
   gap: 8px;
   align-items: center;
+  border: 1px solid #e9d4f6;
+  border-radius: 8px;
+  padding: 8px;
+  background: #faf7fd;
 }
 
 .service-rate-box {
